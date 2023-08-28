@@ -29,7 +29,7 @@ export default function Gallary() {
     <BsDashLg className='px-2 text-blue-500 text-5xl' />
     OUR TOUR GALLERY </span></h4>
     <h1 className='lg:text-start text-center text-5xl font-bold text-indigo-900 mb-3'>BEST TRAVELER'S SHARED PHOTOS</h1>
-    <p className='lg:text-start text-center text-slate-700 mb-6'>Aperiam sociosqu urna praesent, tristique, corrupti condimentum asperiores platea ipsum ad arcu. Nostrud. Esse? Aut nostrum,
+    <p className='lg:text-start text-center text-slate-700 mb-3'>Aperiam sociosqu urna praesent, tristique, corrupti condimentum asperiores platea ipsum ad arcu. Nostrud. Esse? Aut nostrum,
      ornare quas provident laoreet nesciunt odio voluptates etiam, omnis.</p>
     </div>
 
