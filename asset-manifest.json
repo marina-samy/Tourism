@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Tourism/static/css/main.b6642e9b.css",
+    "main.js": "/Tourism/static/js/main.ec5690bf.js",
+    "static/media/bg1.jpg": "/Tourism/static/media/bg1.22ccc3e2d38d01a7b4d2.jpg",
+    "static/media/template girl.jpg": "/Tourism/static/media/template girl.fa713d168d79c5e3799c.jpg",
+    "static/media/bg5.jpg": "/Tourism/static/media/bg5.1b32ed1a82f9459d6e8f.jpg",
+    "static/media/desert.jpg": "/Tourism/static/media/desert.2146a9003772351e7df0.jpg",
+    "static/media/bg4.jpg": "/Tourism/static/media/bg4.f0e3a33dd4645b0b56d1.jpg",
+    "static/media/luxor.jpg": "/Tourism/static/media/luxor.5dd826913f578f9dd69d.jpg",
+    "static/media/bg2.jpg": "/Tourism/static/media/bg2.546b7fb25bb042248347.jpg",
+    "static/media/bg3.jpg": "/Tourism/static/media/bg3.5d9248854f2579f83ffe.jpg",
+    "static/media/nile aswan.jpg": "/Tourism/static/media/nile aswan.0b60040cb62f88aa7d20.jpg",
+    "static/media/temple.jpg": "/Tourism/static/media/temple.2e160c1c30fad4aca783.jpg",
+    "static/media/tourists.jpg": "/Tourism/static/media/tourists.a5f08eb1e719e114cdde.jpg",
+    "static/media/bootstrap-icons.woff?": "/Tourism/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Tourism/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/7-5-Tourism.jpg": "/Tourism/static/media/7-5-Tourism.82fca222244a53d1444d.jpg",
+    "static/media/pyramids.webp": "/Tourism/static/media/pyramids.8d738f40a16fed13597a.webp",
+    "static/media/whatsapp_733585.png": "/Tourism/static/media/whatsapp_733585.1dd8ca2765f1f177ab22.png",
+    "index.html": "/Tourism/index.html",
+    "main.b6642e9b.css.map": "/Tourism/static/css/main.b6642e9b.css.map",
+    "main.ec5690bf.js.map": "/Tourism/static/js/main.ec5690bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6642e9b.css",
+    "static/js/main.ec5690bf.js"
+  ]
+}
