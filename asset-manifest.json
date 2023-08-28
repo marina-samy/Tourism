@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tourism/static/css/main.b6642e9b.css",
-    "main.js": "/Tourism/static/js/main.ec5690bf.js",
+    "main.js": "/Tourism/static/js/main.97336631.js",
     "static/media/bg1.jpg": "/Tourism/static/media/bg1.22ccc3e2d38d01a7b4d2.jpg",
     "static/media/template girl.jpg": "/Tourism/static/media/template girl.fa713d168d79c5e3799c.jpg",
     "static/media/bg5.jpg": "/Tourism/static/media/bg5.1b32ed1a82f9459d6e8f.jpg",
@@ -20,10 +20,10 @@
     "static/media/whatsapp_733585.png": "/Tourism/static/media/whatsapp_733585.1dd8ca2765f1f177ab22.png",
     "index.html": "/Tourism/index.html",
     "main.b6642e9b.css.map": "/Tourism/static/css/main.b6642e9b.css.map",
-    "main.ec5690bf.js.map": "/Tourism/static/js/main.ec5690bf.js.map"
+    "main.97336631.js.map": "/Tourism/static/js/main.97336631.js.map"
   },
   "entrypoints": [
     "static/css/main.b6642e9b.css",
-    "static/js/main.ec5690bf.js"
+    "static/js/main.97336631.js"
   ]
 }
