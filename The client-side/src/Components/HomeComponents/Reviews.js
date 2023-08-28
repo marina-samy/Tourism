@@ -43,7 +43,7 @@ export default function Reviews() {
 
 {vedios.map((vedio)=>(
     
-    <video className='w-full my-10' controls>
+    <video className='w-full my-10' controls >
     <source src={vedio} type="video/mp4" />
     Your browser does not support the video tag.
     </video>
